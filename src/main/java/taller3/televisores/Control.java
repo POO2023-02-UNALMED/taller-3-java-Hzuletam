@@ -5,6 +5,7 @@ public class Control {
 
     // ------------------------------
     public void turnOff() {
+
         this.tv.turnOff();
     }
 
